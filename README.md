@@ -24,7 +24,7 @@ The application is hosted on a professional cloud stack designed for 24/7 availa
 #### **Interface & Interaction**
 
 \<p align="center"\>
-\<img src="pic1.png" alt="Streamlit Interface" width="800"\>
+\<images src="pic1.png" alt="Streamlit Interface" width="800"\>
 <br>\<i\>Professional Streamlit UI featuring Developer Profile and dynamic Input Forms.\</i\>
 \</p\>
 
@@ -39,7 +39,7 @@ The application is hosted on a professional cloud stack designed for 24/7 availa
 #### **Strategic Output**
 
 \<p align="center"\>
-\<img src="pic2.jpg" alt="Strategic Report Example" width="800"\>
+\<img src="/images/pic2.jpg" alt="Strategic Report Example" width="800"\>
 <br>\<i\>Automated SWOT Analysis and Technical Innovation Roadmap generated for real-world entities.\</i\>
 \</p\>
 
@@ -55,7 +55,7 @@ The application is hosted on a professional cloud stack designed for 24/7 availa
 #### **Technical Deployment**
 
 \<p align="center"\>
-\<img src="pic3.jpg" alt="OCI Deployment" width="800"\>
+\<img src="images/pic3.jpg" alt="OCI Deployment" width="800"\>
 <br>\<i\>Terminal execution within the OCI VM environment using Streamlit.\</i\>
 \</p\>
 
